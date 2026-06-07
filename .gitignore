@@ -1,0 +1,18 @@
+# Python sanal ortam ve önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Veri Setleri ve Modeller (Büyük dosyalar Git'e atılmaz)
+*.csv
+*.dat
+*.pkl
+*.joblib
+
+# IDE ve İşletim Sistemi dosyaları
+.vscode/
+.idea/
+.DS_Store
